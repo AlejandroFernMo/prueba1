@@ -33,6 +33,13 @@ Prueba para programacion <br>
 
 
 
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
+
+
 
 
 Realizado por AlejandroFM 19/09/2024
