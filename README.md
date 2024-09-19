@@ -58,4 +58,6 @@ Insert into empresa value sueldo;
 
 '' paquito chocolatero ''
 
+Esta seccion esta `sombreada`
+
 Realizado por AlejandroFM 19/09/2024
