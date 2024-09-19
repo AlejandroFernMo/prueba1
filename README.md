@@ -54,4 +54,8 @@ Insert into empresa value sueldo;
 
 ```
 
+
+
+'' paquito chocolatero ''
+
 Realizado por AlejandroFM 19/09/2024
