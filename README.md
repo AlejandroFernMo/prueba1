@@ -34,9 +34,9 @@ Prueba para programacion <br>
 
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Aprendiendo a usar github.
 
-— Mona the Octocat
+— Alex el humano
 
 
 <!-- TO DO: add more details about me later -->
