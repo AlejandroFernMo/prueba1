@@ -21,13 +21,13 @@ Prueba para programacion <br>
 
 
 <details>
-<summary>My top languages</summary>
+<summary>Top ideas</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1| Hacerse rico|
+|     2| Comprar acciones    |
+|     3| Respirar      |
 
 </details>
 
