@@ -42,4 +42,9 @@ Prueba para programacion <br>
 <!-- TO DO: add more details about me later -->
 
 
+```sql
+Insert into empresa value sueldo;
+
+```
+
 Realizado por AlejandroFM 19/09/2024
