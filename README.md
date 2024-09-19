@@ -39,7 +39,7 @@ Prueba para programacion <br>
 — Mona the Octocat
 
 
-
+<!-- TO DO: add more details about me later -->
 
 
 Realizado por AlejandroFM 19/09/2024
